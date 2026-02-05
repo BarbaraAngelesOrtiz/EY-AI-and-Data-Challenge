@@ -1,4 +1,4 @@
-# Satellite climate water ml
+# Satellite climate water ML
 
 ## Overview
 This repository is a fork of the official EY AI & Data Challenge and contains my work for the 2026 EY AI & Data Challenge: Optimizing Clean Water Supply.
